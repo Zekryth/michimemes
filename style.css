@@ -1,0 +1,134 @@
+body {
+    padding: 0;
+    background: linear-gradient(to bottom,#000,#54f);
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 2.4em;
+    color: #fff;
+    text-align:center;
+    font-weight: 600;
+    background-color: transparent;
+    padding: 7px 0 20px 0;
+    border: none;
+    border-bottom: 2px solid #666;    
+}
+
+.png_introduccion {
+    width: auto;
+    margin: auto;
+    margin-top: 30px;
+    padding: 17;
+    overflow: auto;
+    border: 1px solid #f5f;
+    border-radius: 13px;
+    box-shadow: 0 0 35px #74f;
+    color: #ccc;
+    max-width: 800px;
+}
+
+.png_introduccion img {
+    float: right;
+    height: 80%;
+    width: 90%;
+    max-width: 330px;
+    max-height: 400px;
+    margin: 10px;
+    margin-left: 10px;
+
+}
+
+
+
+.png_introduccion p {
+    width: 80%;
+    margin: 10px 20px;
+    text-align: left;
+}
+
+.png_introduccion h2 {
+    font-size: 1.6rem;
+    padding: 10px;
+    border-bottom: 1px solid #f5f;
+    width: 300px;
+    text-align: left;
+    text-align: center;
+}
+
+.png_introduccion li {
+    padding: 7px;
+} 
+.png_introduccion h3 {
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
+.p_lastround {
+    padding: 5px 15px 5px 3px;
+}
+
+.mas_contenido {
+    color: #fff;
+    width: 70%;
+    margin: auto;
+    margin-left: 100px;
+    background: transparent;
+}
+
+.fieldset_setup {
+    
+    margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+    border: 2px solid #3f5;
+    box-shadow: 4px 6px 20px #f5f;
+}
+
+.formulario  {
+    width: auto;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    color: #ccc;
+}
+
+fieldset{
+    width: 80%;
+    margin: auto;
+}
+
+.formulario legend {
+    padding: 5px 15px;
+    margin: 10px;
+    font-size: 1.5em;
+    font-weight: 600;
+    font-style: italic;
+    border-bottom: 2px solid #3f5;
+    text-shadow: 0 0 6px #5ff;
+}
+
+.form_input {
+    padding: 4px 20px;
+}
+
+input {
+    max-width: 90%;
+    margin: 6px 10px;
+    font-weight: 100;
+    color: #000;
+    padding: 5px;
+    border: 1px solid #4f5;
+}
+
+.checkbox {
+    width: auto;
+    height: 10px;
+    scale: 1.5;
+}
+
+label   {
+    font-size: 0.88em;
+    line-height: 2;
+}
